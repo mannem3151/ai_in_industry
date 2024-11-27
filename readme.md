@@ -70,6 +70,7 @@ Future Improvements
 Fine-tune the frame extraction logic to capture key moments in the video.
 Use a more sophisticated captioning model (e.g., BLIP or OpenAI models).
 Enhance AI-generated video alignment with input video content.
+
 [![AI in Industry Video](https://img.youtube.com/vi/Y9ENV9M0n3o/0.jpg)](https://www.youtube.com/watch?v=Y9ENV9M0n3o)
 ## Team Members
 
