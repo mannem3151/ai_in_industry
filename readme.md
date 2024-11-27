@@ -79,6 +79,8 @@ Enhance AI-generated video alignment with input video content.
 | **Jasti Sony Sourabhi**         | [GitHub](https://github.com/sourabhi148)              |
 | **Arikatla Sai Sumedha**        | [GitHub](https://github.com/saisumedha)               |
 | **Iswarya Mannem**              | [GitHub](https://github.com/mannem3151)               |
+| **Anvithasri126**               | [GitHub](https://github.com/Anvithasri126)            |
+
 
  
 
